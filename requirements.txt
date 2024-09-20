@@ -9,4 +9,4 @@ ydata_profiling==4.10.0
 fpdf
 nbval==0.11.0
 ruff
-polars==-1.7.1
+polars
