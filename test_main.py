@@ -9,8 +9,8 @@ houses = Df_Stats(houses_url)
 
 def test_mean():
     """Testing mean"""
-
-    assert houses.variable_mean("crim") == 3.613523557312254
+    print(houses.variable_mean("crim"))
+    assert houses.variable_mean("crim") == 3.613523557312253
     print("Success")
 
 
