@@ -1,10 +1,12 @@
 # IDS706_alejandroparedeslatorre_individualproject1
 Individual project IDS-706 Alejandro Paredes La Torre 
 
-[![format](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_individualproject1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_individualproject1/actions/workflows/format.yml)
-[![install](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_individualproject1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_individualproject1/actions/workflows/install.yml)
-[![lint](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_individualproject1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_individualproject1/actions/workflows/lint.yml)
-[![test](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_individualproject1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_individualproject1/actions/workflows/test.yml)
+[![CI](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/CI.yml)
+[![format](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/format.yml)
+[![install](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/install.yml)
+[![lint](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/lint.yml)
+[![test](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment3_polars/actions/workflows/test.yml)
+
 
 
 This repo contains a brief implementation of basic descriptive metrics for the Boston Housing dataset. If you want to use this just refer this to a codespace in github and wait for the devcontainer to execute the Makefile that execute the following: install, format, lint, test.
